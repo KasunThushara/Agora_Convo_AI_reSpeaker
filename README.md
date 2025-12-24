@@ -145,7 +145,7 @@ python generate_rtc_rtm_token.py --account 1002
 
 #### Step 4.1: Clone This Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/KasunThushara/Agora_Convo_AI_reSpeaker.git
 cd ai-voice-assistant
 ```
 
