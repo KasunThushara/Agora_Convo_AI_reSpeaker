@@ -36,9 +36,9 @@ A real-time conversational AI assistant powered by Agora, with RAG (Retrieval-Au
 ## 🔧 Prerequisites
 
 ### Required Hardware
-- Computer with microphone (built-in or external)
+- Computer with reSpeaker (built-in or external)
 - Internet connection
-- *Optional:* ReSpeaker USB Microphone (for LED visualization)
+
 
 ### Required Software
 - Python 3.7 or higher
