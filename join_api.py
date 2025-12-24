@@ -28,7 +28,7 @@ headers = {
 # ==========================
 # RAG SERVER CONFIGURATION
 # ==========================
-RAG_SERVER_URL = "https://abcnoncontingently-stotious-edris.ngrok-free.dev/rag/chat/completions"
+RAG_SERVER_URL = "https://abcnoncontingently-stotious.ngrok-free.dev/rag/chat/completions"
 USE_RAG = True
 
 # ==========================
@@ -172,3 +172,4 @@ else:
 
 
 print("\n✨ You can now open index.html and click 'Start Conversation'")
+
