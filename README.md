@@ -109,7 +109,6 @@ After creating the project, you'll see:
 ```bash
 git clone https://github.com/KasunThushara/RTM_RTC_TokenGenerator.git
 cd RTM_RTC_TokenGenerator
-pip install -r requirements.txt
 ```
 
 #### Step 3.2: Configure Token Generator
