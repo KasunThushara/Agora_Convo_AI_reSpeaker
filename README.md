@@ -465,11 +465,13 @@ ai-voice-assistant/
 ├── rag_server.py                # RAG server with emotions
 ├── emotion_led_service.py       # LED control service
 ├── my_city_info.txt            # Your knowledge base
-├── index_v5.html               # Web interface
+├── index.html               # Web interface
 ├── agora-rtm-2.2.3.min.js      # Agora RTM SDK
 ├── test_respeaker.py           # Device connection test
-├── test_led_emotions.py        # LED emotion test
+├── utils
 └── requirements.txt            # Python dependencies
+└── index.ts
+└── type.ts
 ```
 
 ---
